@@ -1,7 +1,7 @@
 HACKERNEWS
 
 
-The Daily Tech Update app is an iOS application designed to keep you informed with the latest headlines from the tech world. The app aggregates news from various tech news sources and presents them in a user-friendly interface. It uses data sourced from Y Combinator to provide up-to-date and relevant tech updates daily.
+HackerNews is an iOS application designed to keep you informed with the latest headlines from the tech world. The app aggregates news from various tech news sources and presents them in a user-friendly interface. It uses data sourced from Y Combinator to provide up-to-date and relevant tech updates daily.
 
 Key Features:
 Tech News Feed: A comprehensive list of headlines from leading tech news sources.
