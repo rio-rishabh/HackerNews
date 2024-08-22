@@ -41,3 +41,6 @@ Contact
 For any questions or feedback, please reach out to:
 Name : Rishabh Sharma
 Email: sharma.rishabh@northeastern.edu
+
+<img width="370" alt="Screenshot 2024-08-22 at 3 03 39 AM" src="https://github.com/user-attachments/assets/64e68622-f48f-410e-bab3-ca8a9005fd93">
+<img width="395" alt="Screenshot 2024-08-22 at 3 03 57 AM" src="https://github.com/user-attachments/assets/11ba7137-67ff-4799-9993-89f7c0c5305a">
